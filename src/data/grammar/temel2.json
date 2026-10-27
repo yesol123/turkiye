@@ -1,0 +1,860 @@
+{
+  "schemaVersion": 1,
+  "id": "temel2",
+  "title": "Temel 2",
+  "description": "Temel 1에서 배운 모음조화·인칭 접미사·현재진행형을 바탕으로 과거형, 미래형, 일반 현재형, 가능형, 의무, 비교, 문장 연결과 조건문까지 익히는 터키어 기초 문법 두 번째 단계입니다.",
+  "lessons": [
+    {
+      "id": "temel2-past-tense",
+      "order": 1,
+      "title": "과거형 (-DI)",
+      "turkishTitle": "Görülen Geçmiş Zaman",
+      "level": "temel2",
+      "summary": "직접 경험했거나 확실하게 알고 있는 과거의 일을 -dı/-di/-du/-dü/-tı/-ti/-tu/-tü로 표현합니다.",
+      "sections": [
+        {
+          "id": "temel2-past-tense-section-1",
+          "heading": "과거형 만드는 방법",
+          "paragraphs": [
+            "동사의 사전형 -mak/-mek을 제거한 어간에 과거 접미사 -DI와 인칭 어미를 붙입니다.",
+            "D는 d 또는 t, I는 ı/i/u/ü 중 하나를 뜻합니다."
+          ],
+          "rules": [
+            "마지막 모음 a/ı→ı, e/i→i, o/u→u, ö/ü→ü.",
+            "어간 끝이 ç, f, h, k, p, s, ş, t 중 하나이면 d 대신 t를 사용합니다: bak + tı → baktı.",
+            "gelmek → gel + di → geldi; yapmak → yap + tı → yaptı.",
+            "인칭: ben -m, sen -n, o 없음, biz -k, siz -nIz, onlar -lAr. 예: geldim, geldin, geldi, geldik, geldiniz, geldiler."
+          ],
+          "examples": [
+            {
+              "id": "temel2-past-tense-section-1-example-1",
+              "turkish": "Dün okula gittim.",
+              "korean": "어제 학교에 갔어요.",
+              "pronunciation": "뒨 오쿨라 기팀"
+            },
+            {
+              "id": "temel2-past-tense-section-1-example-2",
+              "turkish": "Geçen hafta kitap okudum.",
+              "korean": "지난주에 책을 읽었어요.",
+              "pronunciation": "게첸 하프타 키탑 오쿠둠"
+            },
+            {
+              "id": "temel2-past-tense-section-1-example-3",
+              "turkish": "O dün geldi.",
+              "korean": "그 사람은 어제 왔어요.",
+              "pronunciation": "오 뒨 겔디"
+            }
+          ]
+        },
+        {
+          "id": "temel2-past-tense-section-2",
+          "heading": "과거형 부정문과 의문문",
+          "paragraphs": [
+            "동작을 하지 않았다는 뜻은 어간 뒤에 -ma/-me를 넣어 만듭니다.",
+            "과거형의 의문 조사 mı/mi/mu/mü는 활용된 동사 뒤에 별도로 씁니다."
+          ],
+          "rules": [
+            "gel + me + di + m → gelmedim (나는 오지 않았다).",
+            "yap + ma + dı + n → yapmadın (너는 하지 않았다).",
+            "Geldin mi? = 왔니? / Gelmedin mi? = 안 왔니?",
+            "과거형 인칭 어미는 의문 조사보다 앞의 동사에 붙습니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-past-tense-section-2-example-1",
+              "turkish": "Dün çalışmadım.",
+              "korean": "어제 공부하거나 일하지 않았어요.",
+              "pronunciation": "뒨 찰르슈마듬"
+            },
+            {
+              "id": "temel2-past-tense-section-2-example-2",
+              "turkish": "Beni aradın mı?",
+              "korean": "나에게 전화했니?",
+              "pronunciation": "베니 아라든 므"
+            },
+            {
+              "id": "temel2-past-tense-section-2-example-3",
+              "turkish": "Hayır, gitmedim.",
+              "korean": "아니요, 가지 않았어요.",
+              "pronunciation": "하이르 기트메딤"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-future-tense",
+      "order": 2,
+      "title": "미래형 (-(y)AcAk)",
+      "turkishTitle": "Gelecek Zaman",
+      "level": "temel2",
+      "summary": "미래의 계획과 예상을 -(y)acak/-(y)ecek으로 표현하고 인칭에 따라 활용합니다.",
+      "sections": [
+        {
+          "id": "temel2-future-tense-section-1",
+          "heading": "미래형 접미사와 인칭",
+          "paragraphs": [
+            "동사 어간 뒤에 -(y)AcAk을 붙입니다. 어간이 모음으로 끝나면 연결 자음 y가 필요합니다.",
+            "1인칭 단수와 복수에서는 미래형의 끝 k가 모음 앞에서 ğ로 바뀝니다."
+          ],
+          "rules": [
+            "마지막 모음 a/ı/o/u → -(y)acak, e/i/ö/ü → -(y)ecek.",
+            "gelmek → geleceğim, geleceksin, gelecek, geleceğiz, geleceksiniz, gelecekler.",
+            "yapmak → yapacağım (나는 할 것이다).",
+            "okumak → okuyacağım (나는 읽을 것이다): oku + yacak + ım.",
+            "미래의 시간을 나타내는 yarın(내일), gelecek hafta(다음 주)와 자주 사용합니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-future-tense-section-1-example-1",
+              "turkish": "Yarın seni arayacağım.",
+              "korean": "내일 너에게 전화할게.",
+              "pronunciation": "야른 세니 아라야잠"
+            },
+            {
+              "id": "temel2-future-tense-section-1-example-2",
+              "turkish": "Biz İstanbul'a gideceğiz.",
+              "korean": "우리는 이스탄불에 갈 거예요.",
+              "pronunciation": "비즈 이스탄불라 기데제이즈"
+            },
+            {
+              "id": "temel2-future-tense-section-1-example-3",
+              "turkish": "O yarın gelecek.",
+              "korean": "그 사람은 내일 올 거예요.",
+              "pronunciation": "오 야른 겔레젝"
+            }
+          ]
+        },
+        {
+          "id": "temel2-future-tense-section-2",
+          "heading": "미래형의 부정과 질문",
+          "paragraphs": [
+            "부정형은 동사 어간 뒤에 -ma/-me를 넣고 미래형을 붙입니다.",
+            "의문 조사는 미래형으로 활용된 동사 뒤에 띄어 씁니다."
+          ],
+          "rules": [
+            "gel + me + yecek + im → gelmeyeceğim.",
+            "yap + ma + yacak + sınız → yapmayacaksınız.",
+            "Gelecek misin? = 올 거니? / Gelmeyecek misin? = 오지 않을 거니?",
+            "ben의 의문형은 Gelecek miyim?처럼 의문 조사 뒤에 인칭 접미사가 붙습니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-future-tense-section-2-example-1",
+              "turkish": "Bugün dışarı çıkmayacağım.",
+              "korean": "오늘 밖에 나가지 않을 거예요.",
+              "pronunciation": "뷔귄 드샤르 츠크마야잠"
+            },
+            {
+              "id": "temel2-future-tense-section-2-example-2",
+              "turkish": "Yarın gelecek misin?",
+              "korean": "내일 올 거니?",
+              "pronunciation": "야른 겔레젝 미신"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-aorist",
+      "order": 3,
+      "title": "일반 현재형·습관형",
+      "turkishTitle": "Geniş Zaman",
+      "level": "temel2",
+      "summary": "반복되는 습관, 일반적 사실, 평소 성향을 나타내는 geniş zaman의 기본 활용을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel2-aorist-section-1",
+          "heading": "습관과 일반적 사실 말하기",
+          "paragraphs": [
+            "현재진행형 -yor는 지금 일어나는 일에 초점이 있지만, geniş zaman은 반복되는 행동이나 일반적인 사실을 나타낼 때 자주 씁니다.",
+            "어간과 동사 유형에 따라 -r, -Ar, -(I)r 등이 사용되며 일부 빈번한 동사는 예외형을 갖습니다."
+          ],
+          "rules": [
+            "모음으로 끝나는 어간은 대체로 -r: oku + r → okur.",
+            "한 음절 자음 끝 어간은 흔히 -Ar: yap + ar → yapar; gel + ir → gelir처럼 예외도 있습니다.",
+            "여러 음절 자음 끝 어간은 대체로 -(I)r: çalış + ır → çalışır.",
+            "okurum, okursun, okur, okuruz, okursunuz, okurlar.",
+            "동사마다 정확한 geniş zaman 어간을 함께 익히는 것이 안전합니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-aorist-section-1-example-1",
+              "turkish": "Her sabah çay içerim.",
+              "korean": "매일 아침 차를 마셔요.",
+              "pronunciation": "헤르 사바흐 차이 이체림"
+            },
+            {
+              "id": "temel2-aorist-section-1-example-2",
+              "turkish": "Hafta sonları kitap okurum.",
+              "korean": "주말마다 책을 읽어요.",
+              "pronunciation": "하프타 손라르 키탑 오쿠룸"
+            },
+            {
+              "id": "temel2-aorist-section-1-example-3",
+              "turkish": "O genellikle erken kalkar.",
+              "korean": "그 사람은 보통 일찍 일어나요.",
+              "pronunciation": "오 게넬리클레 에르켄 칼카르"
+            }
+          ]
+        },
+        {
+          "id": "temel2-aorist-section-2",
+          "heading": "부정형과 의문형",
+          "paragraphs": [
+            "일반 현재형의 부정형은 인칭에 따라 -maz/-mez 또는 -mam/-mem, -mayız/-meyiz 같은 형태가 나타납니다.",
+            "단순히 모든 인칭에 -maz/-mez를 붙이면 틀릴 수 있으니 인칭별로 비교하세요."
+          ],
+          "rules": [
+            "gelmem, gelmezsin, gelmez, gelmeyiz, gelmezsiniz, gelmezler.",
+            "Yüzebilir misin?은 가능형의 질문이며, geniş zaman 질문은 Gelir misin?처럼 씁니다.",
+            "일반 현재형 질문: Gelir miyim?, Gelir misin?, Gelir mi?, Gelir miyiz?, Gelir misiniz?, Gelirler mi?"
+          ],
+          "examples": [
+            {
+              "id": "temel2-aorist-section-2-example-1",
+              "turkish": "Ben kahve içmem.",
+              "korean": "나는 커피를 마시지 않아요.",
+              "pronunciation": "벤 카흐베 이치멤"
+            },
+            {
+              "id": "temel2-aorist-section-2-example-2",
+              "turkish": "Her gün yürür müsün?",
+              "korean": "매일 걷니?",
+              "pronunciation": "헤르 귄 위뤼르 뮈쉰"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-ability",
+      "order": 4,
+      "title": "가능형과 불가능형",
+      "turkishTitle": "Yeterlilik Fiili (-(y)Abil)",
+      "level": "temel2",
+      "summary": "할 수 있다/없다를 표현하고 능력과 가능성, 공손한 부탁을 말합니다.",
+      "sections": [
+        {
+          "id": "temel2-ability-section-1",
+          "heading": "-(y)Abil로 가능 표현하기",
+          "paragraphs": [
+            "동사 어간 뒤에 -(y)abil/-(y)ebil을 붙여 능력이나 가능성을 나타냅니다.",
+            "가능형은 뒤에 시제·인칭 접미사를 붙여 활용합니다."
+          ],
+          "rules": [
+            "a/ı/o/u → -(y)abil, e/i/ö/ü → -(y)ebil.",
+            "konuş + abil + ir + im → konuşabilirim (말할 수 있다).",
+            "gel + ebil + ir + sin → gelebilirsin (올 수 있다).",
+            "oku + yabil + ir + im → okuyabilirim (읽을 수 있다)."
+          ],
+          "examples": [
+            {
+              "id": "temel2-ability-section-1-example-1",
+              "turkish": "Türkçe konuşabilirim.",
+              "korean": "터키어를 말할 수 있어요.",
+              "pronunciation": "튀르크체 코누샤빌리림"
+            },
+            {
+              "id": "temel2-ability-section-1-example-2",
+              "turkish": "Bana yardım edebilir misin?",
+              "korean": "나를 도와줄 수 있니?",
+              "pronunciation": "바나 야르듬 에데빌리르 미신"
+            },
+            {
+              "id": "temel2-ability-section-1-example-3",
+              "turkish": "Burada oturabilir miyim?",
+              "korean": "여기 앉아도 될까요?",
+              "pronunciation": "부라다 오투라빌리르 미임"
+            }
+          ]
+        },
+        {
+          "id": "temel2-ability-section-2",
+          "heading": "할 수 없다고 말하기",
+          "paragraphs": [
+            "가능형의 부정은 일반적으로 -(y)ama/-(y)eme 뒤에 적절한 시제·인칭형을 붙입니다.",
+            "기본적인 현재 가능·불가능 표현부터 익혀보세요."
+          ],
+          "rules": [
+            "gel + eme + m → gelemem (올 수 없다).",
+            "yap + ama + m → yapamam (할 수 없다).",
+            "konuş + ama + m → konuşamam (말할 수 없다).",
+            "Gelemem과 Gelmiyorum은 각각 '올 수 없다'와 '오고 있지 않다/오지 않는다'로 의미가 다릅니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-ability-section-2-example-1",
+              "turkish": "Bugün gelemem.",
+              "korean": "오늘은 올 수 없어요.",
+              "pronunciation": "뷔귄 겔레멤"
+            },
+            {
+              "id": "temel2-ability-section-2-example-2",
+              "turkish": "Bunu yapamam.",
+              "korean": "이것을 할 수 없어요.",
+              "pronunciation": "부누 야파맘"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-necessity",
+      "order": 5,
+      "title": "필요·의무 표현",
+      "turkishTitle": "Gereklilik ve Zorunluluk",
+      "level": "temel2",
+      "summary": "gerekiyor, lazım, zorunda와 -malı/-meli를 활용해 필요와 의무를 표현합니다.",
+      "sections": [
+        {
+          "id": "temel2-necessity-section-1",
+          "heading": "동사원형 + gerek / lazım",
+          "paragraphs": [
+            "어떤 행동이 필요하다고 말할 때 동사원형(-mak/-mek)에 소유·격 형태를 붙여 kullanmak gerekiyor처럼 표현할 수 있습니다.",
+            "초급에서는 '동사원형 + gerek/lazım'보다 '동사 + mAm gerek/lazım'과 '동사 + mAm gerekiyor'를 문장 단위로 익히는 것이 좋아요."
+          ],
+          "rules": [
+            "gitmem gerekiyor = 나는 가야 한다 (git-me-m이 아니라 git-me-m: gitmek의 동명사형 gitme + 소유 -m).",
+            "çalışmam lazım = 나는 공부하거나 일해야 한다.",
+            "Erken kalkman gerekiyor. = 너는 일찍 일어나야 한다.",
+            "gitmek zorundayım = 나는 가야만 한다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-necessity-section-1-example-1",
+              "turkish": "Ders çalışmam gerekiyor.",
+              "korean": "공부해야 해요.",
+              "pronunciation": "데르스 찰르슈맘 게레키요르"
+            },
+            {
+              "id": "temel2-necessity-section-1-example-2",
+              "turkish": "Erken uyumam lazım.",
+              "korean": "일찍 자야 해요.",
+              "pronunciation": "에르켄 우유맘 라즘"
+            },
+            {
+              "id": "temel2-necessity-section-1-example-3",
+              "turkish": "Şimdi gitmek zorundayım.",
+              "korean": "지금 가야만 해요.",
+              "pronunciation": "쉼디 기트멕 조룬다임"
+            }
+          ]
+        },
+        {
+          "id": "temel2-necessity-section-2",
+          "heading": "의무형 -mAlI",
+          "paragraphs": [
+            "동사 어간 뒤에 -malı/-meli와 인칭 접미사를 붙여 '~해야 한다'는 뜻을 나타냅니다.",
+            "문맥에 따라 충고나 강한 권고로도 사용할 수 있습니다."
+          ],
+          "rules": [
+            "git + meli + yim → gitmeliyim (나는 가야 한다).",
+            "yap + malı + sın → yapmalısın (너는 해야 한다).",
+            "dinlen + meli + yiz → dinlenmeliyiz (우리는 쉬어야 한다).",
+            "부정: gitmemeliyim = 나는 가면 안 된다/가지 말아야 한다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-necessity-section-2-example-1",
+              "turkish": "Daha çok su içmelisin.",
+              "korean": "물을 더 많이 마셔야 해.",
+              "pronunciation": "다하 촉 수 이치멜리신"
+            },
+            {
+              "id": "temel2-necessity-section-2-example-2",
+              "turkish": "Bugün dinlenmeliyim.",
+              "korean": "오늘 쉬어야 해요.",
+              "pronunciation": "뷔귄 딘렌멜리임"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-comparatives",
+      "order": 6,
+      "title": "비교급과 최상급",
+      "turkishTitle": "Karşılaştırma ve Üstünlük",
+      "level": "temel2",
+      "summary": "daha, en, -dan/-den을 이용해 둘 이상을 비교하고 가장 높은 정도를 표현합니다.",
+      "sections": [
+        {
+          "id": "temel2-comparatives-section-1",
+          "heading": "daha와 -DAn으로 비교하기",
+          "paragraphs": [
+            "터키어는 형용사 자체를 바꾸지 않고 daha(더)를 붙여 비교합니다.",
+            "비교 대상은 보통 출발격 -dan/-den/-tan/-ten을 사용합니다."
+          ],
+          "rules": [
+            "A, B'den daha güzel. = A는 B보다 더 예쁘다.",
+            "Bu ev o evden daha büyük. = 이 집은 저 집보다 더 크다.",
+            "daha iyi = 더 좋은, daha hızlı = 더 빠른.",
+            "접미사 -DAn은 명사의 마지막 모음과 자음에 따라 변합니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-comparatives-section-1-example-1",
+              "turkish": "Bu kitap daha ilginç.",
+              "korean": "이 책이 더 흥미로워요.",
+              "pronunciation": "부 키탑 다하 일긴치"
+            },
+            {
+              "id": "temel2-comparatives-section-1-example-2",
+              "turkish": "Ankara İstanbul'dan daha küçük.",
+              "korean": "앙카라는 이스탄불보다 더 작아요.",
+              "pronunciation": "앙카라 이스탄불단 다하 퀴췩"
+            }
+          ]
+        },
+        {
+          "id": "temel2-comparatives-section-2",
+          "heading": "en으로 최상급 표현하기",
+          "paragraphs": [
+            "형용사 앞에 en을 붙이면 '가장 ~한'이라는 뜻이 됩니다.",
+            "무엇 중에서 가장인지 범위를 나타내면 의미가 더 분명해집니다."
+          ],
+          "rules": [
+            "en güzel = 가장 아름다운.",
+            "en büyük şehir = 가장 큰 도시.",
+            "Bu sınıftaki en uzun öğrenci = 이 반에서 가장 키가 큰 학생.",
+            "daha(더)와 en(가장)을 구별합니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-comparatives-section-2-example-1",
+              "turkish": "Bu en güzel seçenek.",
+              "korean": "이것이 가장 좋은 선택이에요.",
+              "pronunciation": "부 엔 귀젤 세체넥"
+            },
+            {
+              "id": "temel2-comparatives-section-2-example-2",
+              "turkish": "En sevdiğim yemek mantı.",
+              "korean": "내가 가장 좋아하는 음식은 만트예요.",
+              "pronunciation": "엔 세브디임 예멕 만트"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-conjunctions",
+      "order": 7,
+      "title": "접속사와 문장 연결",
+      "turkishTitle": "Bağlaçlar",
+      "level": "temel2",
+      "summary": "ve, ama, çünkü, veya, fakat 등을 사용해 간단한 문장을 연결합니다.",
+      "sections": [
+        {
+          "id": "temel2-conjunctions-section-1",
+          "heading": "기본 접속사 익히기",
+          "paragraphs": [
+            "두 단어 또는 두 문장을 연결하는 접속사를 배웁니다.",
+            "초급에서는 접속사마다 어떤 의미 관계를 나타내는지 익히고 짧은 문장을 직접 연결해 보세요."
+          ],
+          "rules": [
+            "ve = 그리고 / ama, fakat = 하지만.",
+            "çünkü = 왜냐하면, ~이기 때문에 (이유 설명).",
+            "veya, ya da = 또는.",
+            "hem ... hem ... = ~도 ...도.",
+            "접속사와 별개로 -de/-da가 '도'라는 뜻의 독립된 접속사로 쓰일 때는 띄어 씁니다: Ben de."
+          ],
+          "examples": [
+            {
+              "id": "temel2-conjunctions-section-1-example-1",
+              "turkish": "Çay ve kahve istiyorum.",
+              "korean": "차와 커피를 원해요.",
+              "pronunciation": "차이 베 카흐베 이스티요룸"
+            },
+            {
+              "id": "temel2-conjunctions-section-1-example-2",
+              "turkish": "Gitmek istiyorum ama vaktim yok.",
+              "korean": "가고 싶지만 시간이 없어요.",
+              "pronunciation": "기트멕 이스티요룸 아마 바크팀 욕"
+            },
+            {
+              "id": "temel2-conjunctions-section-1-example-3",
+              "turkish": "Evdeyim çünkü hastayım.",
+              "korean": "집에 있어요. 왜냐하면 아프거든요.",
+              "pronunciation": "에브데임 춘퀴 하스타임"
+            }
+          ]
+        },
+        {
+          "id": "temel2-conjunctions-section-2",
+          "heading": "대조와 이유를 문장으로 확장하기",
+          "paragraphs": [
+            "단문 두 개를 먼저 만든 뒤 접속사로 연결하면 긴 문장도 쉽게 만들 수 있습니다.",
+            "çünkü 뒤에는 이유가 되는 절을 놓는 것이 일반적입니다."
+          ],
+          "rules": [
+            "Yorgunum. + Dışarı çıkacağım. → Yorgunum ama dışarı çıkacağım.",
+            "Bugün gelmiyorum çünkü çalışıyorum.",
+            "Ben de geliyorum.에서 de는 '~도'라는 뜻으로 띄어 씁니다.",
+            "evde의 -de는 장소격 접미사로 붙여 씁니다. Ben de의 de와 혼동하지 마세요."
+          ],
+          "examples": [
+            {
+              "id": "temel2-conjunctions-section-2-example-1",
+              "turkish": "Ben de Türkçe öğreniyorum.",
+              "korean": "나도 터키어를 배우고 있어요.",
+              "pronunciation": "벤 데 튀르크체 외레니요룸"
+            },
+            {
+              "id": "temel2-conjunctions-section-2-example-2",
+              "turkish": "Hava soğuk ama güneşli.",
+              "korean": "날씨는 춥지만 맑아요.",
+              "pronunciation": "하바 소욱 아마 귀네슐리"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-time-expressions",
+      "order": 8,
+      "title": "시간 표현과 순서",
+      "turkishTitle": "Zaman İfadeleri",
+      "level": "temel2",
+      "summary": "önce, sonra, dün, yarın, -DAn önce, -DAn sonra를 이용해 시간과 순서를 설명합니다.",
+      "sections": [
+        {
+          "id": "temel2-time-expressions-section-1",
+          "heading": "시간을 나타내는 기본 단어",
+          "paragraphs": [
+            "언제 일어나는 일인지 나타내는 부사를 익힙니다.",
+            "현재진행형, 과거형, 미래형과 함께 사용해 의미 차이를 확인해 보세요."
+          ],
+          "rules": [
+            "dün = 어제, bugün = 오늘, yarın = 내일.",
+            "şimdi = 지금, birazdan = 잠시 후.",
+            "her gün = 매일, geçen hafta = 지난주, gelecek hafta = 다음 주.",
+            "önce = 전에/먼저, sonra = 후에/그다음."
+          ],
+          "examples": [
+            {
+              "id": "temel2-time-expressions-section-1-example-1",
+              "turkish": "Dün çok çalıştım.",
+              "korean": "어제 열심히 공부했어요.",
+              "pronunciation": "뒨 촉 찰르슈틈"
+            },
+            {
+              "id": "temel2-time-expressions-section-1-example-2",
+              "turkish": "Yarın erken kalkacağım.",
+              "korean": "내일 일찍 일어날 거예요.",
+              "pronunciation": "야른 에르켄 칼카잠"
+            }
+          ]
+        },
+        {
+          "id": "temel2-time-expressions-section-2",
+          "heading": "~전에 / ~후에",
+          "paragraphs": [
+            "명사 뒤에 -DAn önce, -DAn sonra를 붙이면 기준 시점의 전후를 표현합니다.",
+            "동작을 기준으로 말할 때는 -mAdAn önce, -DIktAn sonra 같은 형태가 사용됩니다. 이 형태는 단어 통째로 익히며 연습해도 좋아요."
+          ],
+          "rules": [
+            "dersten önce = 수업 전에; dersten sonra = 수업 후에.",
+            "yemekten önce = 식사 전에; yemekten sonra = 식사 후에.",
+            "uyumadan önce = 자기 전에.",
+            "yemek yedikten sonra = 밥을 먹은 후에.",
+            "sonra와 önce를 바꾸면 사건의 순서가 바뀝니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-time-expressions-section-2-example-1",
+              "turkish": "Dersten sonra eve gidiyorum.",
+              "korean": "수업 후에 집에 가요.",
+              "pronunciation": "데르스텐 손라 에베 기디요룸"
+            },
+            {
+              "id": "temel2-time-expressions-section-2-example-2",
+              "turkish": "Uyumadan önce kitap okurum.",
+              "korean": "자기 전에 책을 읽어요.",
+              "pronunciation": "우유마단 왼제 키탑 오쿠룸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-infinitives",
+      "order": 9,
+      "title": "동사원형과 희망 표현",
+      "turkishTitle": "Mastar ve İstek İfadeleri",
+      "level": "temel2",
+      "summary": "-mak/-mek, istemek, sevmek을 이용해 무엇을 하고 싶은지 표현합니다.",
+      "sections": [
+        {
+          "id": "temel2-infinitives-section-1",
+          "heading": "동사원형 -mak / -mek",
+          "paragraphs": [
+            "사전에서 보는 동사의 기본형은 대부분 -mak/-mek으로 끝납니다.",
+            "어떤 동작을 좋아하거나 원한다고 말할 때 동사원형을 다른 동사와 연결할 수 있습니다."
+          ],
+          "rules": [
+            "gitmek = 가다, gelmek = 오다, okumak = 읽다.",
+            "마지막 모음 a/ı/o/u → -mak, e/i/ö/ü → -mek.",
+            "Türkçe öğrenmek istiyorum. = 터키어를 배우고 싶어요.",
+            "Kitap okumayı seviyorum. = 책 읽는 것을 좋아해요. sevmek 앞에서는 -mAyI 형태가 자주 사용됩니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-infinitives-section-1-example-1",
+              "turkish": "Bir kitap satın almak istiyorum.",
+              "korean": "책 한 권을 사고 싶어요.",
+              "pronunciation": "비르 키탑 사튼 알막 이스티요룸"
+            },
+            {
+              "id": "temel2-infinitives-section-1-example-2",
+              "turkish": "Türkçe öğrenmek istiyorum.",
+              "korean": "터키어를 배우고 싶어요.",
+              "pronunciation": "튀르크체 외렌멕 이스티요룸"
+            },
+            {
+              "id": "temel2-infinitives-section-1-example-3",
+              "turkish": "Yüzmeyi seviyorum.",
+              "korean": "수영하는 것을 좋아해요.",
+              "pronunciation": "위즈메이 세비요룸"
+            }
+          ]
+        },
+        {
+          "id": "temel2-infinitives-section-2",
+          "heading": "istemek과 sevmek 구별하기",
+          "paragraphs": [
+            "istemek은 바람·희망, sevmek은 좋아하는 성향을 나타냅니다.",
+            "둘 다 한국어로 '~하고 싶다/좋아하다'처럼 자연스럽게 옮길 수 있지만 터키어에서는 동사 형태가 달라질 수 있습니다."
+          ],
+          "rules": [
+            "gitmek istiyorum = 가고 싶다.",
+            "gitmeyi seviyorum = 가는 것을 좋아한다.",
+            "kahve içmek istiyorum = 커피를 마시고 싶다.",
+            "kahve içmeyi seviyorum = 커피 마시는 것을 좋아한다.",
+            "부정: gitmek istemiyorum = 가고 싶지 않다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-infinitives-section-2-example-1",
+              "turkish": "Bugün dışarı çıkmak istemiyorum.",
+              "korean": "오늘 밖에 나가고 싶지 않아요.",
+              "pronunciation": "뷔귄 드샤르 츠크막 이스테미요룸"
+            },
+            {
+              "id": "temel2-infinitives-section-2-example-2",
+              "turkish": "Müzik dinlemeyi seviyorum.",
+              "korean": "음악 듣는 것을 좋아해요.",
+              "pronunciation": "뮈직 딘레메이 세비요룸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-reasons",
+      "order": 10,
+      "title": "이유와 결과 표현",
+      "turkishTitle": "Sebep ve Sonuç",
+      "level": "temel2",
+      "summary": "çünkü, bu yüzden, -DIğI için을 이용해 원인과 결과를 설명합니다.",
+      "sections": [
+        {
+          "id": "temel2-reasons-section-1",
+          "heading": "çünkü와 bu yüzden",
+          "paragraphs": [
+            "çünkü는 앞 문장의 이유를 설명하고, bu yüzden은 앞 상황의 결과를 말할 때 사용합니다.",
+            "처음에는 독립된 문장 두 개를 만든 뒤 연결해 보세요."
+          ],
+          "rules": [
+            "Hastayım çünkü üşüttüm. = 아파요. 감기에 걸렸거든요.",
+            "Çok yağmur yağıyor. Bu yüzden evdeyim. = 비가 많이 와요. 그래서 집에 있어요.",
+            "çünkü = 왜냐하면; bu yüzden = 그래서/그 때문에.",
+            "neden? / niçin? = 왜?"
+          ],
+          "examples": [
+            {
+              "id": "temel2-reasons-section-1-example-1",
+              "turkish": "Bugün evdeyim çünkü hastayım.",
+              "korean": "오늘 아파서 집에 있어요.",
+              "pronunciation": "뷔귄 에브데임 춘퀴 하스타임"
+            },
+            {
+              "id": "temel2-reasons-section-1-example-2",
+              "turkish": "Yağmur yağıyor, bu yüzden çıkmıyorum.",
+              "korean": "비가 와서 나가지 않아요.",
+              "pronunciation": "야무르 야으요르 부 위즈덴 츠크므요룸"
+            }
+          ]
+        },
+        {
+          "id": "temel2-reasons-section-2",
+          "heading": "-DIğI için으로 이유 말하기",
+          "paragraphs": [
+            "'~했기 때문에'처럼 동작을 이유로 제시할 때는 -DIğI için 계열의 표현을 사용합니다.",
+            "이 형태에는 인칭에 따른 소유 접미사가 포함되어 어간 변화가 생길 수 있으므로 예문 단위로 익히세요."
+          ],
+          "rules": [
+            "gelmediğim için = 내가 오지 않았기 때문에.",
+            "hasta olduğum için = 내가 아프기 때문에.",
+            "çalıştığım için = 내가 일하거나 공부하기 때문에.",
+            "이 형태는 Temel 2에서 기본 표현을 익히고 더 복잡한 활용은 상위 단계에서 확장해도 됩니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-reasons-section-2-example-1",
+              "turkish": "Hasta olduğum için gelmedim.",
+              "korean": "아파서 오지 못했어요.",
+              "pronunciation": "하스타 올두움 이친 겔메딤"
+            },
+            {
+              "id": "temel2-reasons-section-2-example-2",
+              "turkish": "Çalıştığım için yorgunum.",
+              "korean": "일해서 피곤해요.",
+              "pronunciation": "찰르슈트음 이친 요르구눔"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-conditionals",
+      "order": 11,
+      "title": "조건문 기초 (-sA)",
+      "turkishTitle": "Şart Kipi",
+      "level": "temel2",
+      "summary": "~하면, ~라면이라는 조건을 -sa/-se 및 varsa/yoksa로 표현합니다.",
+      "sections": [
+        {
+          "id": "temel2-conditionals-section-1",
+          "heading": "조건 접미사 -sA",
+          "paragraphs": [
+            "조건형은 어떤 상황이 성립할 때 일어나는 일을 말합니다.",
+            "초급에서는 조건형의 대표적인 인칭 활용과 자주 쓰는 문장을 먼저 익힙니다."
+          ],
+          "rules": [
+            "gel + se + m → gelsem (내가 온다면).",
+            "gel + se + n → gelsen (네가 온다면).",
+            "gel + se → gelse (그 사람이 온다면).",
+            "gelsek / gelseniz / gelseler도 사용합니다.",
+            "실제 대화에서는 gelirsen(네가 오면), gelirse(그가 오면)처럼 일반 현재형 뒤에 조건형을 붙이는 형태도 흔합니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-conditionals-section-1-example-1",
+              "turkish": "Vaktin varsa gel.",
+              "korean": "시간 있으면 와.",
+              "pronunciation": "바크틴 바르사 겔"
+            },
+            {
+              "id": "temel2-conditionals-section-1-example-2",
+              "turkish": "İstersen birlikte çalışalım.",
+              "korean": "원한다면 같이 공부하자.",
+              "pronunciation": "이스테르센 비를릭테 찰르샬름"
+            }
+          ]
+        },
+        {
+          "id": "temel2-conditionals-section-2",
+          "heading": "varsa / yoksa와 일상 조건문",
+          "paragraphs": [
+            "varsa는 '있다면', yoksa는 '없다면'이라는 뜻으로 자주 사용됩니다.",
+            "조건절과 결과절을 구별하고 간단한 요청을 만들어 보세요."
+          ],
+          "rules": [
+            "Vaktin varsa = 네게 시간이 있다면.",
+            "Paran yoksa = 돈이 없다면.",
+            "Yağmur yağarsa evde kalacağım. = 비가 오면 집에 있을 거예요.",
+            "조건절은 문장 앞이나 뒤에 올 수 있습니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-conditionals-section-2-example-1",
+              "turkish": "Hava güzelse yürüyüşe çıkalım.",
+              "korean": "날씨가 좋으면 산책하러 가자.",
+              "pronunciation": "하바 귀젤세 위뤼위셰 츠칼름"
+            },
+            {
+              "id": "temel2-conditionals-section-2-example-2",
+              "turkish": "Yağmur yağarsa evde kalacağım.",
+              "korean": "비가 오면 집에 있을 거예요.",
+              "pronunciation": "야무르 야아르사 에브데 칼라잠"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel2-sentence-expansion",
+      "order": 12,
+      "title": "문장 확장과 종합 연습",
+      "turkishTitle": "Cümle Kurma ve Pekiştirme",
+      "level": "temel2",
+      "summary": "Temel 1과 Temel 2의 시제·접미사·접속사를 조합해 자신의 일상, 경험, 계획을 이야기합니다.",
+      "sections": [
+        {
+          "id": "temel2-sentence-expansion-section-1",
+          "heading": "하나의 동사로 시제 비교하기",
+          "paragraphs": [
+            "같은 동사를 현재진행형·과거형·미래형·습관형으로 바꿔 보세요.",
+            "시제만 바뀌어도 문장의 시간적 의미가 달라집니다."
+          ],
+          "rules": [
+            "Şimdi kitap okuyorum. = 지금 책을 읽고 있어요.",
+            "Dün kitap okudum. = 어제 책을 읽었어요.",
+            "Yarın kitap okuyacağım. = 내일 책을 읽을 거예요.",
+            "Her gün kitap okurum. = 매일 책을 읽어요.",
+            "인칭과 시제를 함께 바꿔가며 연습합니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-sentence-expansion-section-1-example-1",
+              "turkish": "Şimdi Türkçe öğreniyorum.",
+              "korean": "지금 터키어를 배우고 있어요.",
+              "pronunciation": "쉼디 튀르크체 외레니요룸"
+            },
+            {
+              "id": "temel2-sentence-expansion-section-1-example-2",
+              "turkish": "Geçen yıl Türkiye'ye gittim.",
+              "korean": "작년에 튀르키예에 갔어요.",
+              "pronunciation": "게첸 을 튀르키예예 기팀"
+            },
+            {
+              "id": "temel2-sentence-expansion-section-1-example-3",
+              "turkish": "Gelecek yıl tekrar gideceğim.",
+              "korean": "내년에 다시 갈 거예요.",
+              "pronunciation": "겔레젝 을 테크라르 기데제임"
+            }
+          ]
+        },
+        {
+          "id": "temel2-sentence-expansion-section-2",
+          "heading": "두 문장 이상 연결하기",
+          "paragraphs": [
+            "짧은 문장에 시간·이유·목적·조건을 추가해 자연스럽게 확장합니다.",
+            "주어가 명확하면 대명사를 생략할 수 있고, 접속사로 문장 사이의 관계를 표현할 수 있습니다."
+          ],
+          "rules": [
+            "Bugün evdeyim. → Bugün hastayım, bu yüzden evdeyim.",
+            "Türkçe öğreniyorum. → Türkiye'ye gitmek istediğim için Türkçe öğreniyorum.",
+            "Yarın vaktim varsa arkadaşımı arayacağım.",
+            "초급 학습자는 정확한 짧은 문장을 먼저 만든 다음 확장하는 것이 좋습니다."
+          ],
+          "examples": [
+            {
+              "id": "temel2-sentence-expansion-section-2-example-1",
+              "turkish": "Türkçe öğreniyorum çünkü Türkiye'yi seviyorum.",
+              "korean": "튀르키예를 좋아해서 터키어를 배우고 있어요.",
+              "pronunciation": "튀르크체 외레니요룸 춘퀴 튀르키예이 세비요룸"
+            },
+            {
+              "id": "temel2-sentence-expansion-section-2-example-2",
+              "turkish": "Yarın vaktim varsa arkadaşımı arayacağım.",
+              "korean": "내일 시간이 있으면 친구에게 전화할 거예요.",
+              "pronunciation": "야른 바크팀 바르사 아르카다슈므 아라야잠"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

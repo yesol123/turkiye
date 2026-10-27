@@ -4,6 +4,10 @@ import { createTranslationHandler, createSpeechHandler, loadTranslationEnv } fro
 
 loadTranslationEnv()
 export default defineConfig({
+  cacheDir: 'node_modules/.vite-browser',
+  optimizeDeps: {
+    include: ['react', 'react-dom/client', 'react/jsx-runtime', 'react/jsx-dev-runtime'],
+  },
   plugins: [react(), {
     name: 'google-translation-server',
     configureServer(server) { server.middlewares.use(createSpeechHandler()); server.middlewares.use(createTranslationHandler()) },

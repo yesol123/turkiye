@@ -1,0 +1,1109 @@
+{
+  "schemaVersion": 1,
+  "id": "temel1",
+  "title": "Temel 1",
+  "description": "터키어를 처음 배우는 학습자를 위한 기초 문법 과정입니다. 알파벳과 발음부터 모음조화, 명사, 인칭대명사, 기초 문장 구조, 현재진행형까지 단계별로 학습합니다.",
+  "lessons": [
+    {
+      "id": "temel1-vowels",
+      "order": 1,
+      "title": "모음과 자음",
+      "turkishTitle": "Ünlü ve Ünsüz Harfler",
+      "level": "temel1",
+      "summary": "터키어의 8개 모음(a, e, ı, i, o, ö, u, ü)과 자음의 특징을 배우고 기본 발음을 익힙니다.",
+      "sections": [
+        {
+          "id": "temel1-vowels-sounds-guide",
+          "heading": "모음과 자음을 읽는 방법",
+          "paragraphs": [
+            "터키어 알파벳은 29자이며, 그중 8자는 모음입니다. 단어를 읽을 때 글자 이름을 하나씩 말하는 대신 글자가 나타내는 소리를 이어 읽습니다. 모음 하나가 보통 음절의 중심이 됩니다.",
+            "점 없는 I/ı와 점 있는 İ/i는 서로 다른 글자입니다. 한글 발음은 읽기 시작할 때 쓰는 보조 수단으로 생각하고, ö·ü나 터키어 자음은 실제 음성과 함께 익혀보세요."
+          ],
+          "rules": [
+            "후설 모음: a, ı, o, u / 전설 모음: e, i, ö, ü. 이 구분은 다음 단원의 모음조화에 사용합니다.",
+            "I의 소문자는 ı, İ의 소문자는 i입니다. ı는 한국어 ㅡ에 가까운 소리이고, i는 이에 가까운 소리입니다.",
+            "c는 영어 j와 비슷한 소리, ç는 ch, ş는 sh와 비슷한 소리를 냅니다. c와 ç를 구별해보세요.",
+            "ğ는 보통 독립적인 ㄱ 소리로 읽지 않습니다. 주변 모음에 따라 앞 모음을 길게 하거나 모음 사이를 이어주는 역할을 합니다."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-vowels-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [
+            "모음마다 예시 단어를 하나씩 읽어보세요. 한글은 가까운 소리를 적은 참고 표기이며, 특히 ö와 ü는 한글 발음과 정확히 같지 않습니다."
+          ],
+          "rules": [],
+          "examples": [
+            {
+              "id": "temel1-vowels-examples-example-1",
+              "label": "A a · 아",
+              "turkish": "araba",
+              "korean": "자동차",
+              "pronunciation": "아라바"
+            },
+            {
+              "id": "temel1-vowels-examples-example-2",
+              "label": "E e · 에",
+              "turkish": "ev",
+              "korean": "집",
+              "pronunciation": "에브"
+            },
+            {
+              "id": "temel1-vowels-examples-example-4",
+              "label": "I ı · 으",
+              "turkish": "ışık",
+              "korean": "빛",
+              "pronunciation": "으슥"
+            },
+            {
+              "id": "temel1-vowels-examples-example-5",
+              "label": "İ i · 이",
+              "turkish": "ip",
+              "korean": "실, 줄",
+              "pronunciation": "입"
+            },
+            {
+              "id": "temel1-vowels-examples-example-3",
+              "label": "O o · 오",
+              "turkish": "okul",
+              "korean": "학교",
+              "pronunciation": "오쿨"
+            },
+            {
+              "id": "temel1-vowels-examples-example-6",
+              "label": "Ö ö · 외",
+              "turkish": "ördek",
+              "korean": "오리",
+              "pronunciation": "외르덱"
+            },
+            {
+              "id": "temel1-vowels-examples-example-7",
+              "label": "U u · 우",
+              "turkish": "uçak",
+              "korean": "비행기",
+              "pronunciation": "우착"
+            },
+            {
+              "id": "temel1-vowels-examples-example-8",
+              "label": "Ü ü · 위",
+              "turkish": "üzüm",
+              "korean": "포도",
+              "pronunciation": "위쥠"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-vowel-harmony",
+      "order": 2,
+      "title": "모음조화",
+      "turkishTitle": "Ünlü Uyumu",
+      "level": "temel1",
+      "summary": "단어의 마지막 모음에 따라 접미사가 달라지는 터키어의 2분류 및 4분류 모음조화 규칙을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-vowel-harmony-formation",
+          "heading": "마지막 모음을 보고 접미사 고르기",
+          "paragraphs": [
+            "터키어는 단어 뒤에 접미사를 붙여 뜻과 문법적 역할을 표현합니다. 접미사를 선택할 때 단어 전체를 바꾸는 것이 아니라, 붙이려는 접미사의 모음을 조절합니다.",
+            "먼저 단어의 마지막 모음을 찾고, 그 접미사가 a/e 두 가지로 바뀌는지 ı/i/u/ü 네 가지로 바뀌는지 확인하세요. 대문자 A와 I는 실제로 대문자를 쓰라는 뜻이 아니라 가능한 모음을 묶어 나타내는 기호입니다."
+          ],
+          "rules": [
+            "2분류 A: 마지막 모음이 a/ı/o/u → a, e/i/ö/ü → e. 복수형 -lAr가 대표적입니다.",
+            "4분류 I: 마지막 모음이 a/ı → ı, e/i → i, o/u → u, ö/ü → ü입니다.",
+            "kitap의 마지막 모음은 a → kitap + lar = kitaplar. ev의 마지막 모음은 e → ev + ler = evler.",
+            "학교를: okul의 마지막 모음은 u → okul + u = okulu. 집을: ev의 마지막 모음은 e → ev + i = evi.",
+            "일부 외래어와 예외 단어는 표면상 마지막 모음만으로 예상한 형태와 다를 수 있습니다. 처음에는 자주 쓰는 규칙적인 단어로 연습하세요."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-vowel-harmony-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "kitaplar",
+              "korean": "책들",
+              "pronunciation": "키탑라르",
+              "id": "temel1-vowel-harmony-examples-example-1"
+            },
+            {
+              "turkish": "evler",
+              "korean": "집들",
+              "pronunciation": "에블레르",
+              "id": "temel1-vowel-harmony-examples-example-2"
+            },
+            {
+              "turkish": "okulu",
+              "korean": "학교를",
+              "pronunciation": "오쿨루",
+              "id": "temel1-vowel-harmony-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-pronouns",
+      "order": 3,
+      "title": "인칭대명사와 인칭 접미사",
+      "turkishTitle": "Kişi Zamirleri ve Kişi Ekleri",
+      "level": "temel1",
+      "summary": "ben, sen, o, biz, siz, onlar의 뜻을 익히고 명사·형용사 서술어에 붙는 인칭 접미사(-im, -sin, 없음, -iz, -siniz, -lar/-ler)의 형태와 모음조화를 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-pronouns-building-order",
+          "heading": "대명사와 접미사를 문장에 연결하기",
+          "paragraphs": [
+            "처음에는 인칭대명사를 쓴 뒤 서술어와 인칭 접미사를 이어 문장을 만들어보세요. 익숙해지면 문맥이 분명한 경우 대명사를 생략할 수 있습니다."
+          ],
+          "rules": [
+            "Ben + öğretmen + im → Ben öğretmenim. (나는 교사입니다.)",
+            "Sen + öğretmen + sin → Sen öğretmensin. (너는 교사입니다.)",
+            "학생입니다: Öğrenciyim.처럼 접미사만으로 화자가 나라는 것을 드러낼 수 있습니다.",
+            "강조하거나 누가 하는 일인지 분명히 할 때는 ben, sen 등의 대명사를 함께 씁니다."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-pronouns-overview",
+          "heading": "인칭대명사 6개 익히기",
+          "paragraphs": [
+            "인칭대명사(Kişi Zamirleri)는 누가 말하거나 행동하는지 나타내는 말입니다. 터키어에는 ben(나), sen(너), o(그/그녀/그것), biz(우리), siz(당신/너희/여러분), onlar(그들)이 있습니다.",
+            "터키어의 o는 성별을 구분하지 않습니다. siz는 여러 사람을 가리키거나 한 사람에게 공손하게 말할 때 사용합니다."
+          ],
+          "rules": [
+            "1인칭 단수: ben = 나",
+            "2인칭 단수: sen = 너",
+            "3인칭 단수: o = 그/그녀/그것",
+            "1인칭 복수: biz = 우리",
+            "2인칭 복수 또는 존칭: siz = 너희/여러분/당신",
+            "3인칭 복수: onlar = 그들"
+          ],
+          "examples": [
+            {
+              "turkish": "Ben",
+              "korean": "나",
+              "pronunciation": "벤",
+              "id": "temel1-pronouns-overview-example-1"
+            },
+            {
+              "turkish": "Sen",
+              "korean": "너",
+              "pronunciation": "센",
+              "id": "temel1-pronouns-overview-example-2"
+            },
+            {
+              "turkish": "O",
+              "korean": "그, 그녀, 그것",
+              "pronunciation": "오",
+              "id": "temel1-pronouns-overview-example-3"
+            },
+            {
+              "turkish": "Biz",
+              "korean": "우리",
+              "pronunciation": "비즈",
+              "id": "temel1-pronouns-overview-example-4"
+            },
+            {
+              "turkish": "Siz",
+              "korean": "너희, 여러분, 당신(존칭)",
+              "pronunciation": "시즈",
+              "id": "temel1-pronouns-overview-example-5"
+            },
+            {
+              "turkish": "Onlar",
+              "korean": "그들",
+              "pronunciation": "온라르",
+              "id": "temel1-pronouns-overview-example-6"
+            }
+          ]
+        },
+        {
+          "id": "temel1-pronouns-suffixes",
+          "heading": "인칭별 접미사(Kişi Ekleri)",
+          "paragraphs": [
+            "터키어에서는 “나는 학생이다”와 같은 명사·형용사 문장을 만들 때 주어에 맞는 인칭 접미사를 서술어 뒤에 붙입니다. 접미사는 ben, sen 같은 대명사 자체에 붙는 것이 아니라 öğrenci(학생) 같은 서술어에 붙습니다.",
+            "외우기 쉬운 기본 형태는 ben → -im, sen → -sin, o → 없음, biz → -iz, siz → -siniz, onlar → -lar/-ler(또는 생략)입니다. 하지만 이 형태가 항상 그대로 붙는 것은 아니며, 모음조화와 연결 자음에 따라 변합니다.",
+            "여기서는 명사·형용사 문장의 인칭 접미사를 배웁니다. 현재진행형(-yor) 등 동사의 시제 활용에서는 접미사 모양이 다를 수 있습니다."
+          ],
+          "rules": [
+            "ben(나) → -(y)Im: -ım/-im/-um/-üm; 모음으로 끝나면 y를 넣습니다. 예: öğrenci + yim → öğrenciyim.",
+            "sen(너) → -sIn: -sın/-sin/-sun/-sün. 예: öğrenci + sin → öğrencisin.",
+            "o(그/그녀/그것) → 기본형에서 인칭 접미사 없음. 예: O öğrenci.",
+            "biz(우리) → -(y)Iz: -ız/-iz/-uz/-üz; 모음으로 끝나면 y를 넣습니다. 예: öğrenci + yiz → öğrenciyiz.",
+            "siz(너희/여러분/당신) → -sInIz: -sınız/-siniz/-sunuz/-sünüz. 예: öğrenci + siniz → öğrencisiniz.",
+            "onlar(그들) → -lAr: -lar/-ler 또는 생략 가능. 예: Onlar öğrenciler. / Onlar öğrenci.",
+            "표기의 대문자 I는 ı/i/u/ü 중 하나, A는 a/e 중 하나를 뜻합니다. 괄호 속 (y)는 필요한 경우에만 쓰는 연결 자음입니다."
+          ],
+          "examples": [
+            {
+              "turkish": "Ben öğrenciyim.",
+              "korean": "나는 학생입니다. (ben → -yim)",
+              "pronunciation": "벤 외렌지임",
+              "id": "temel1-pronouns-suffixes-example-1"
+            },
+            {
+              "turkish": "Sen öğrencisin.",
+              "korean": "너는 학생입니다. (sen → -sin)",
+              "pronunciation": "센 외렌지신",
+              "id": "temel1-pronouns-suffixes-example-2"
+            },
+            {
+              "turkish": "O öğrenci.",
+              "korean": "그 사람은 학생입니다. (o → 접미사 없음)",
+              "pronunciation": "오 외렌지",
+              "id": "temel1-pronouns-suffixes-example-3"
+            },
+            {
+              "turkish": "Biz öğrenciyiz.",
+              "korean": "우리는 학생입니다. (biz → -yiz)",
+              "pronunciation": "비즈 외렌지이즈",
+              "id": "temel1-pronouns-suffixes-example-4"
+            },
+            {
+              "turkish": "Siz öğrencisiniz.",
+              "korean": "여러분은 학생입니다. (siz → -siniz)",
+              "pronunciation": "시즈 외렌지시니즈",
+              "id": "temel1-pronouns-suffixes-example-5"
+            },
+            {
+              "turkish": "Onlar öğrenciler.",
+              "korean": "그들은 학생입니다. (onlar → -ler)",
+              "pronunciation": "온라르 외렌지레르",
+              "id": "temel1-pronouns-suffixes-example-6"
+            },
+            {
+              "turkish": "Onlar öğrenci.",
+              "korean": "그들은 학생입니다. (복수 접미사 생략)",
+              "pronunciation": "온라르 외렌지",
+              "id": "temel1-pronouns-suffixes-example-7"
+            }
+          ]
+        },
+        {
+          "id": "temel1-pronouns-harmony",
+          "heading": "인칭 접미사의 모음조화",
+          "paragraphs": [
+            "인칭 접미사의 모음은 서술어의 마지막 모음에 따라 달라집니다. 예를 들어 ben의 기본형을 -im으로 외워도 항상 -im을 붙이지는 않습니다.",
+            "마지막 모음이 a/ı이면 ı, e/i이면 i, o/u이면 u, ö/ü이면 ü를 사용합니다. 명사·형용사 서술어가 모음으로 끝날 때 ben과 biz 접미사 앞에는 연결 자음 y가 들어갑니다."
+          ],
+          "rules": [
+            "a/ı → ı: hasta → hastayım (나는 아픕니다).",
+            "e/i → i: öğrenci → öğrenciyim (나는 학생입니다).",
+            "o/u → u: mutlu → mutluyum (나는 행복합니다).",
+            "ö/ü → ü: Türk → Türküm (나는 터키인입니다).",
+            "자음으로 끝나는 단어에는 연결 자음 y를 넣지 않습니다. 예: Türk + üm → Türküm."
+          ],
+          "examples": [
+            {
+              "turkish": "Ben hastayım.",
+              "korean": "나는 아픕니다.",
+              "pronunciation": "벤 하스타임",
+              "id": "temel1-pronouns-harmony-example-1"
+            },
+            {
+              "turkish": "Ben öğrenciyim.",
+              "korean": "나는 학생입니다.",
+              "pronunciation": "벤 외렌지임",
+              "id": "temel1-pronouns-harmony-example-2"
+            },
+            {
+              "turkish": "Ben mutluyum.",
+              "korean": "나는 행복합니다.",
+              "pronunciation": "벤 무틀루윰",
+              "id": "temel1-pronouns-harmony-example-3"
+            },
+            {
+              "turkish": "Ben Türküm.",
+              "korean": "나는 터키인입니다.",
+              "pronunciation": "벤 튀르큄",
+              "id": "temel1-pronouns-harmony-example-4"
+            }
+          ]
+        },
+        {
+          "id": "temel1-pronouns-practice",
+          "heading": "인칭별 문장 비교하기",
+          "paragraphs": [
+            "같은 단어 öğrenci(학생)를 사용하여 주어만 바꾸어 보세요. 인칭대명사를 생략해도 접미사만으로 누가 학생인지 알 수 있는 경우가 많습니다.",
+            "주의: onlar가 주어일 때는 문맥에 따라 Onlar öğrenci.와 Onlar öğrenciler. 모두 가능합니다."
+          ],
+          "rules": [
+            "Ben → öğrenci + yim = öğrenciyim",
+            "Sen → öğrenci + sin = öğrencisin",
+            "O → öğrenci (접미사 없음)",
+            "Biz → öğrenci + yiz = öğrenciyiz",
+            "Siz → öğrenci + siniz = öğrencisiniz",
+            "Onlar → öğrenci + ler = öğrenciler (또는 öğrenci)"
+          ],
+          "examples": [
+            {
+              "turkish": "Ben öğrenciyim.",
+              "korean": "나는 학생입니다.",
+              "pronunciation": "벤 외렌지임",
+              "id": "temel1-pronouns-practice-example-1"
+            },
+            {
+              "turkish": "Sen öğrencisin.",
+              "korean": "너는 학생입니다.",
+              "pronunciation": "센 외렌지신",
+              "id": "temel1-pronouns-practice-example-2"
+            },
+            {
+              "turkish": "O öğrenci.",
+              "korean": "그 사람은 학생입니다.",
+              "pronunciation": "오 외렌지",
+              "id": "temel1-pronouns-practice-example-3"
+            },
+            {
+              "turkish": "Biz öğrenciyiz.",
+              "korean": "우리는 학생입니다.",
+              "pronunciation": "비즈 외렌지이즈",
+              "id": "temel1-pronouns-practice-example-4"
+            },
+            {
+              "turkish": "Siz öğrencisiniz.",
+              "korean": "여러분은 학생입니다.",
+              "pronunciation": "시즈 외렌지시니즈",
+              "id": "temel1-pronouns-practice-example-5"
+            },
+            {
+              "turkish": "Onlar öğrenciler.",
+              "korean": "그들은 학생입니다.",
+              "pronunciation": "온라르 외렌지레르",
+              "id": "temel1-pronouns-practice-example-6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-plural",
+      "order": 4,
+      "title": "명사와 복수형",
+      "turkishTitle": "İsimler ve Çoğul Eki",
+      "level": "temel1",
+      "summary": "명사의 기본 형태와 복수형 접미사 -lar/-ler의 사용법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-plural-formation",
+          "heading": "-lar / -ler로 복수형 만들기",
+          "paragraphs": [
+            "여럿이라는 뜻을 나타내려면 명사 뒤에 -lar 또는 -ler를 붙입니다. 명사 끝이 자음인지 모음인지는 상관없으며 마지막 모음의 앞뒤 구분을 따릅니다."
+          ],
+          "rules": [
+            "a/ı/o/u 뒤에는 -lar: kitap → kitaplar, çocuk → çocuklar.",
+            "e/i/ö/ü 뒤에는 -ler: ev → evler, gün → günler.",
+            "숫자로 수량을 이미 나타냈을 때는 보통 명사를 단수로 씁니다. üç kitap = 책 세 권, 두 학생 = iki öğrenci.",
+            "bu/şu/o의 복수형은 단순히 -lar만 붙이지 않고 bunlar/şunlar/onlar가 됩니다."
+          ],
+          "examples": [
+            {
+              "id": "temel1-plural-formation-example-1",
+              "turkish": "Üç kitap var.",
+              "korean": "책이 세 권 있습니다."
+            },
+            {
+              "id": "temel1-plural-formation-example-2",
+              "turkish": "Evler çok güzel.",
+              "korean": "집들이 아주 예쁩니다."
+            }
+          ]
+        },
+        {
+          "id": "temel1-plural-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "kitaplar",
+              "korean": "책들",
+              "pronunciation": "키탑라르",
+              "id": "temel1-plural-examples-example-1"
+            },
+            {
+              "turkish": "evler",
+              "korean": "집들",
+              "pronunciation": "에블레르",
+              "id": "temel1-plural-examples-example-2"
+            },
+            {
+              "turkish": "çocuklar",
+              "korean": "아이들",
+              "pronunciation": "초죽라르",
+              "id": "temel1-plural-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-demonstratives",
+      "order": 5,
+      "title": "지시대명사",
+      "turkishTitle": "İşaret Zamirleri",
+      "level": "temel1",
+      "summary": "이것, 저것, 그것을 나타내는 bu, şu, o와 복수형 bunlar, şunlar, onlar를 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-demonstratives-formation",
+          "heading": "bu / şu / o를 구별하고 명사와 연결하기",
+          "paragraphs": [
+            "bu는 화자와 가까운 것, şu는 가리키며 상대의 주의를 끄는 것, o는 상대적으로 먼 것이나 이미 이야기한 대상을 나타낼 때 사용합니다. 실제 선택은 거리뿐 아니라 대화 상황에도 영향을 받습니다.",
+            "이 단어들은 혼자 쓰면 이것·저것·그것이 되고, 명사 앞에 놓으면 이 책·저 펜 같은 표현이 됩니다."
+          ],
+          "rules": [
+            "Bu bir kitap. = 이것은 책입니다. / Bu kitap güzel. = 이 책은 좋습니다.",
+            "복수 대명사: bu → bunlar, şu → şunlar, o → onlar.",
+            "Bu kitaplar라는 표현에서는 복수형을 명사 kitap에 붙입니다. 이때 bu를 bunlar로 바꾸지 않습니다.",
+            "o는 사람을 가리킬 때 그·그녀의 구분 없이 사용하고, 사물을 가리킬 때 그것이라는 뜻으로도 씁니다."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-demonstratives-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Bu bir kitap.",
+              "korean": "이것은 책입니다.",
+              "pronunciation": "부 비르 키탑",
+              "id": "temel1-demonstratives-examples-example-1"
+            },
+            {
+              "turkish": "Şu bir kalem.",
+              "korean": "저것은 펜입니다.",
+              "pronunciation": "슈 비르 칼렘",
+              "id": "temel1-demonstratives-examples-example-2"
+            },
+            {
+              "turkish": "Bunlar elma.",
+              "korean": "이것들은 사과입니다.",
+              "pronunciation": "분라르 엘마",
+              "id": "temel1-demonstratives-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-nominal-sentences",
+      "order": 6,
+      "title": "명사 문장과 인칭 접미사",
+      "turkishTitle": "İsim Cümleleri ve Kişi Ekleri",
+      "level": "temel1",
+      "summary": "영어의 be동사에 해당하는 의미를 터키어에서 인칭 접미사로 표현하는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-nominal-sentences-formation",
+          "heading": "명사·형용사로 “~이다” 문장 만들기",
+          "paragraphs": [
+            "현재의 신분이나 상태를 말할 때 영어의 am/is/are처럼 독립된 동사를 인칭마다 고르기보다, 서술어 뒤에 인칭 접미사를 붙입니다. 기본 순서는 주어 + 명사/형용사 + 인칭 접미사입니다.",
+            "서술어의 마지막 모음으로 접미사 모음을 고른 다음, 서술어가 모음으로 끝나는지 확인합니다. ben과 biz의 접미사는 모음 뒤에서 연결 자음 y를 사용합니다."
+          ],
+          "rules": [
+            "Ben + doktor + um → Ben doktorum. (나는 의사입니다.)",
+            "Ben + öğrenci + yim → Ben öğrenciyim. (나는 학생입니다.)",
+            "Biz + mutlu + yuz → Biz mutluyuz. (우리는 행복합니다.)",
+            "3인칭 단수는 기본적인 일상 문장에서 접미사가 없습니다. O doktor. / Bu güzel.",
+            "명사 문장의 접미사와 동사의 시제 활용을 구별하세요. 현재진행형에서는 -yor 뒤에 정해진 인칭형이 이어집니다."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-nominal-sentences-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Ben öğrenciyim.",
+              "korean": "나는 학생입니다.",
+              "pronunciation": "벤 외렌지임",
+              "id": "temel1-nominal-sentences-examples-example-1"
+            },
+            {
+              "turkish": "Sen doktorsun.",
+              "korean": "너는 의사입니다.",
+              "pronunciation": "센 독토르순",
+              "id": "temel1-nominal-sentences-examples-example-2"
+            },
+            {
+              "turkish": "Biz mutluyuz.",
+              "korean": "우리는 행복합니다.",
+              "pronunciation": "비즈 무틀루유즈",
+              "id": "temel1-nominal-sentences-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-negation",
+      "order": 7,
+      "title": "명사 문장의 부정형",
+      "turkishTitle": "Olumsuz İsim Cümleleri",
+      "level": "temel1",
+      "summary": "değil을 사용해 '~이/가 아닙니다'라는 부정문을 만드는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-negation-formation",
+          "heading": "서술어 뒤에 değil을 넣어 부정하기",
+          "paragraphs": [
+            "명사·형용사 문장의 부정형은 서술어 + değil + 인칭 접미사로 만듭니다. 인칭 접미사는 원래 서술어가 아니라 değil 뒤로 이동합니다.",
+            "이 규칙은 신분이나 상태를 부정할 때 사용합니다. 동사의 행동을 부정할 때는 동사 어간에 부정 접미사 -ma/-me를 붙이는 별도 규칙을 사용합니다."
+          ],
+          "rules": [
+            "Ben öğrenciyim. → Ben öğrenci değilim. (나는 학생이 아닙니다.)",
+            "Sen mutlusun. → Sen mutlu değilsin. (너는 행복하지 않습니다.)",
+            "O doktor. → O doktor değil. (그 사람은 의사가 아닙니다.)",
+            "인칭별 형태: değilim / değilsin / değil / değiliz / değilsiniz / değiller.",
+            "존재를 나타내는 var의 기본 부정 표현은 yok입니다. Su var. → Su yok."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-negation-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Ben doktor değilim.",
+              "korean": "나는 의사가 아닙니다.",
+              "pronunciation": "벤 독토르 데일림",
+              "id": "temel1-negation-examples-example-1"
+            },
+            {
+              "turkish": "Bu pahalı değil.",
+              "korean": "이것은 비싸지 않습니다.",
+              "pronunciation": "부 파할르 데일",
+              "id": "temel1-negation-examples-example-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-questions",
+      "order": 8,
+      "title": "의문문 만들기",
+      "turkishTitle": "Soru Cümleleri",
+      "level": "temel1",
+      "summary": "의문 조사 mı, mi, mu, mü를 사용하여 예/아니요로 답할 수 있는 질문을 만드는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-questions-formation",
+          "heading": "의문 조사와 인칭 접미사의 순서",
+          "paragraphs": [
+            "예/아니요로 대답할 수 있는 질문은 별도 단어로 쓰는 mı/mi/mu/mü를 사용합니다. 바로 앞 단어의 마지막 모음에 맞춰 고르고, 물음표를 붙입니다.",
+            "기본 명사·형용사 질문에서는 인칭 접미사를 의문 조사 뒤에 붙입니다. 의문 조사는 앞 단어와 띄어 쓰지만 자기 뒤의 인칭 접미사와는 붙여 씁니다."
+          ],
+          "rules": [
+            "a/ı → mı, e/i → mi, o/u → mu, ö/ü → mü.",
+            "Sen öğrenci + mi + sin → Sen öğrenci misin? (너는 학생이니?)",
+            "Ben + öğrenci + mi + yim → Ben öğrenci miyim? (나는 학생인가요?)",
+            "Bu kitap mı? / Bu okul mu? / O Türk mü?처럼 앞 단어에 따라 모음이 달라집니다.",
+            "부정 질문은 değil을 기준으로 만듭니다. Sen öğrenci değil misin? = 너는 학생이 아니니?"
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-questions-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Sen öğrenci misin?",
+              "korean": "너는 학생이니?",
+              "pronunciation": "센 외렌지 미신",
+              "id": "temel1-questions-examples-example-1"
+            },
+            {
+              "turkish": "Bu kitap mı?",
+              "korean": "이것은 책인가요?",
+              "pronunciation": "부 키탑 므",
+              "id": "temel1-questions-examples-example-2"
+            },
+            {
+              "turkish": "Mutlu musun?",
+              "korean": "행복하니?",
+              "pronunciation": "무틀루 무순",
+              "id": "temel1-questions-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-question-words",
+      "order": 9,
+      "title": "기초 의문사",
+      "turkishTitle": "Soru Kelimeleri",
+      "level": "temel1",
+      "summary": "ne, kim, nerede, nasıl, kaç, hangi 등의 의문사를 사용하여 정보를 묻는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-question-words-formation",
+          "heading": "무엇·누구·어디를 묻기",
+          "paragraphs": [
+            "의문사는 알고 싶은 정보가 들어갈 자리에 놓습니다. 처음에는 대답 문장을 먼저 생각하고, 그중 묻고 싶은 부분을 의문사로 바꾸어 연습하세요.",
+            "의문사로 정보를 묻는 기본 질문에는 보통 mı/mi/mu/mü를 덧붙이지 않습니다. 문장 전체가 긍정인지 묻는 질문과 구별하세요."
+          ],
+          "rules": [
+            "ne = 무엇, kim = 누구, nerede = 어디에, nasıl = 어떻게/어떤 상태로, kaç = 몇, hangi = 어느.",
+            "Bu bir kitap.에서 책이 무엇인지 모르면 Bu ne?라고 묻습니다.",
+            "O evde.에서 장소를 모르면 O nerede?라고 묻습니다.",
+            "Kim → kimsin처럼 의문사에 인칭 접미사가 붙기도 합니다. Sen kimsin? = 너는 누구니?",
+            "수량은 Kaç kitap var? (책이 몇 권 있나요?), 선택은 Hangi kitap? (어느 책인가요?)처럼 물을 수 있습니다."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-question-words-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Bu ne?",
+              "korean": "이것은 무엇인가요?",
+              "pronunciation": "부 네",
+              "id": "temel1-question-words-examples-example-1"
+            },
+            {
+              "turkish": "Sen kimsin?",
+              "korean": "너는 누구니?",
+              "pronunciation": "센 킴신",
+              "id": "temel1-question-words-examples-example-2"
+            },
+            {
+              "turkish": "Nasılsın?",
+              "korean": "어떻게 지내?",
+              "pronunciation": "나슬슨",
+              "id": "temel1-question-words-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-var-yok",
+      "order": 10,
+      "title": "존재와 부재",
+      "turkishTitle": "Var ve Yok",
+      "level": "temel1",
+      "summary": "var와 yok을 사용해 '~이/가 있다', '~이/가 없다'를 표현하는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-var-yok-formation",
+          "heading": "장소 + 대상 + var / yok",
+          "paragraphs": [
+            "무엇이 존재하는지 말할 때는 var, 존재하지 않을 때는 yok을 씁니다. 기본 틀은 장소 + 대상 + var/yok입니다. 이 문장에서 대상은 주로 존재 여부를 새로 알리는 정보입니다.",
+            "소유를 말할 때는 소유 접미사가 붙은 명사와 var/yok을 함께 사용할 수 있습니다. Param var는 직역하면 나의 돈이 있다는 뜻이며, 자연스럽게 나는 돈이 있다는 의미가 됩니다."
+          ],
+          "rules": [
+            "Evde + su + var → Evde su var. (집에 물이 있습니다.)",
+            "Evde su yok. = 집에 물이 없습니다.",
+            "질문: var mı? / yok mu? 의문 조사는 var/yok과 띄어 씁니다.",
+            "Param var. / Param yok.의 param은 para(돈) + m(나의)입니다.",
+            "특정 물건의 위치를 말하는 Kitap masada. (그 책은 책상 위에 있다)와, 존재를 알리는 Masada bir kitap var. (책상 위에 책 한 권이 있다)를 비교해보세요."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-var-yok-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Evde su var.",
+              "korean": "집에 물이 있습니다.",
+              "pronunciation": "에브데 수 바르",
+              "id": "temel1-var-yok-examples-example-1"
+            },
+            {
+              "turkish": "Param yok.",
+              "korean": "나는 돈이 없습니다.",
+              "pronunciation": "파람 욕",
+              "id": "temel1-var-yok-examples-example-2"
+            },
+            {
+              "turkish": "Burada okul var mı?",
+              "korean": "여기에 학교가 있나요?",
+              "pronunciation": "부라다 오쿨 바르 므",
+              "id": "temel1-var-yok-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-locative",
+      "order": 11,
+      "title": "위치와 장소격",
+      "turkishTitle": "Bulunma Hâli (-DA)",
+      "level": "temel1",
+      "summary": "장소격 접미사 -da/-de/-ta/-te를 사용하여 '~에 있다', '~에서'를 표현하는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-locative-formation",
+          "heading": "-da / -de / -ta / -te 선택하기",
+          "paragraphs": [
+            "장소격은 명사 뒤에 붙어 ~에, ~에서라는 뜻을 나타냅니다. 명사 자체의 마지막 모음으로 a/e를 고르고, 마지막 자음으로 d/t를 고릅니다.",
+            "장소에 있는 사람이 나나 너라면 장소격 뒤에 인칭 접미사를 더합니다. 집에 있다를 나에 맞추면 ev + de + yim → evdeyim이 됩니다."
+          ],
+          "rules": [
+            "마지막 모음이 a/ı/o/u → a, e/i/ö/ü → e.",
+            "명사가 ç, f, h, k, p, s, ş, t 중 하나로 끝나면 d 대신 t를 씁니다.",
+            "ev + de → evde (집에), okul + da → okulda (학교에).",
+            "park + ta → parkta (공원에), iş + te → işte (직장에서).",
+            "도시 같은 고유명사 뒤의 격 접미사는 아포스트로피로 구분합니다. Ankara’da, İstanbul’da."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-locative-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Ben evdeyim.",
+              "korean": "나는 집에 있습니다.",
+              "pronunciation": "벤 에브데임",
+              "id": "temel1-locative-examples-example-1"
+            },
+            {
+              "turkish": "Kitap masada.",
+              "korean": "책은 책상 위에 있습니다.",
+              "pronunciation": "키탑 마사다",
+              "id": "temel1-locative-examples-example-2"
+            },
+            {
+              "turkish": "Çocuk okulda.",
+              "korean": "아이는 학교에 있습니다.",
+              "pronunciation": "초죽 오쿨다",
+              "id": "temel1-locative-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-possessives",
+      "order": 12,
+      "title": "소유 표현",
+      "turkishTitle": "İyelik Ekleri",
+      "level": "temel1",
+      "summary": "소유 접미사를 사용해 나의 책, 너의 집, 그의 이름과 같은 표현을 만드는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-possessives-formation",
+          "heading": "소유자에 맞는 접미사 붙이기",
+          "paragraphs": [
+            "소유 표현은 내/네/그 사람의에 해당하는 말과 소유 접미사를 결합합니다. 단어가 자음으로 끝나면 접미사의 앞 모음이 필요할 수 있고, 그 모음은 4분류 모음조화를 따릅니다.",
+            "benim, senin 같은 소유자를 나타내는 말은 강조하거나 명확히 말할 때 쓸 수 있습니다. 접미사만으로 소유자가 분명하면 생략하기도 합니다."
+          ],
+          "rules": [
+            "benim: -(I)m → evim (나의 집), 모음 뒤에는 -m → arabam (나의 자동차).",
+            "senin: -(I)n → evin (너의 집), 모음 뒤에는 -n → araban (너의 자동차).",
+            "onun: -(s)I → evi (그 사람의 집), 모음 뒤에는 s → arabası (그 사람의 자동차).",
+            "bizim: -(I)mIz → evimiz, sizin: -(I)nIz → eviniz.",
+            "onların의 소유 표현에는 -(lAr)I가 사용되며 수와 문맥에 따라 해석이 달라질 수 있습니다. 먼저 onların evi / onların evleri 같은 기본 표현부터 익혀보세요.",
+            "일부 명사의 끝 자음은 모음으로 시작하는 접미사 앞에서 바뀝니다. kitap + ım → kitabım. 모든 단어에 기계적으로 적용하지 말고 어휘와 함께 익히세요."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-possessives-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Benim kitabım",
+              "korean": "나의 책",
+              "pronunciation": "베님 키타븜",
+              "id": "temel1-possessives-examples-example-1"
+            },
+            {
+              "turkish": "Senin evin",
+              "korean": "너의 집",
+              "pronunciation": "세닌 에빈",
+              "id": "temel1-possessives-examples-example-2"
+            },
+            {
+              "turkish": "Onun adı",
+              "korean": "그 사람의 이름",
+              "pronunciation": "오눈 아드",
+              "id": "temel1-possessives-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-present-continuous",
+      "order": 13,
+      "title": "현재진행형",
+      "turkishTitle": "Şimdiki Zaman (-yor)",
+      "level": "temel1",
+      "summary": "동사에 -yor와 인칭 접미사를 붙여 현재 진행 중인 행동을 표현하는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-present-continuous-formation",
+          "heading": "현재진행형 만들기: 어간 + -(I)yor + 인칭",
+          "paragraphs": [
+            "지금 하고 있는 행동을 말하려면 사전형의 -mak/-mek을 떼어 동사 어간을 찾습니다. 어간이 자음으로 끝나면 마지막 모음에 따라 -ıyor/-iyor/-uyor/-üyor 중 하나를 붙이고, 그 뒤에 인칭 접미사를 붙입니다.",
+            "여기서 고르는 모음은 ı, i, u, ü입니다. o는 네 가지 선택지에 포함되지 않으며, -yor 안의 o는 변하지 않습니다. 예를 들어 gelmek → gel + iyor + um → geliyorum입니다."
+          ],
+          "rules": [
+            "1단계: yapmak → yap-, gelmek → gel-, oturmak → otur-, görmek → gör-.",
+            "a/ı → -ıyor: yap + ıyor → yapıyor. (하고 있다)",
+            "e/i → -iyor: gel + iyor → geliyor. (오고 있다)",
+            "o/u → -uyor: otur + uyor → oturuyor. (앉아 있다)",
+            "ö/ü → -üyor: gör + üyor → görüyor. (보고 있다)",
+            "인칭별로: ben -um, sen -sun, o 없음, biz -uz, siz -sunuz, onlar -lar. -yor의 마지막 모음 o 때문에 이 형태가 유지됩니다.",
+            "geliyorum / geliyorsun / geliyor / geliyoruz / geliyorsunuz / geliyorlar. 주어가 분명하면 인칭대명사를 생략할 수 있습니다."
+          ],
+          "examples": [
+            {
+              "id": "temel1-present-continuous-formation-example-1",
+              "turkish": "Ben geliyorum.",
+              "korean": "나는 오고 있습니다."
+            },
+            {
+              "id": "temel1-present-continuous-formation-example-2",
+              "turkish": "Sen ne görüyorsun?",
+              "korean": "너는 무엇을 보고 있니?"
+            }
+          ]
+        },
+        {
+          "id": "temel1-present-continuous-stem-changes",
+          "heading": "모음으로 끝나는 어간과 자주 쓰는 예외",
+          "paragraphs": [
+            "어간 끝에 모음이 이미 있으면 -ıyor 등을 그대로 겹쳐 붙이지 않습니다. ı/i/u/ü로 끝나는 어간은 그 모음을 유지하고 -yor를 붙입니다. a/e로 끝나는 어간은 끝 모음을 좁은 모음으로 바꿉니다.",
+            "a/e가 바뀔 때는 그 앞 모음의 영향도 확인하세요. bekle는 bekliyor, söyle는 söylüyor, oyna는 oynuyor가 됩니다. 한 음절 어간인 de와 ye는 자주 쓰는 예외로 따로 익혀두세요."
+          ],
+          "rules": [
+            "okumak → oku + yor → okuyor. 읽고 있습니다. (okuuyor로 쓰지 않음)",
+            "yürümek → yürü + yor → yürüyor. 걷고 있습니다.",
+            "aramak → ara → arıyor, beklemek → bekle → bekliyor, söylemek → söyle → söylüyor.",
+            "demek → diyor (말하고 있다), yemek → yiyor (먹고 있다).",
+            "일부 동사는 모음으로 시작하는 접미사 앞에서 t가 d로 바뀝니다. gitmek → gidiyor, etmek → ediyor.",
+            "부정형은 어간 + m + Iyor로 익힐 수 있습니다. gelmek → gelmiyor, okumak → okumuyor. 부정 접미사 -ma/-me의 모음이 -yor 앞에서 탈락한 형태입니다.",
+            "질문은 -yor 뒤에 mu와 인칭 접미사를 붙입니다. Geliyor musun? / Okuyor muyum? mu는 앞 단어와 띄어 씁니다."
+          ],
+          "examples": [
+            {
+              "id": "temel1-present-continuous-stem-changes-example-1",
+              "turkish": "Şu an bir elma yiyorum.",
+              "korean": "지금 사과 하나를 먹고 있습니다."
+            },
+            {
+              "id": "temel1-present-continuous-stem-changes-example-2",
+              "turkish": "Ben kitap okumuyorum.",
+              "korean": "나는 책을 읽고 있지 않습니다."
+            },
+            {
+              "id": "temel1-present-continuous-stem-changes-example-3",
+              "turkish": "Ne yapıyorsun?",
+              "korean": "무엇을 하고 있니?"
+            }
+          ]
+        },
+        {
+          "id": "temel1-present-continuous-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Ben kitap okuyorum.",
+              "korean": "나는 책을 읽고 있습니다.",
+              "pronunciation": "벤 키탑 오쿠요룸",
+              "id": "temel1-present-continuous-examples-example-1"
+            },
+            {
+              "turkish": "Sen ne yapıyorsun?",
+              "korean": "너는 무엇을 하고 있니?",
+              "pronunciation": "센 네 야프요르순",
+              "id": "temel1-present-continuous-examples-example-2"
+            },
+            {
+              "turkish": "O Türkçe öğreniyor.",
+              "korean": "그 사람은 터키어를 배우고 있습니다.",
+              "pronunciation": "오 튀르크체 외레니요르",
+              "id": "temel1-present-continuous-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-basic-cases",
+      "order": 14,
+      "title": "기초 격 접미사",
+      "turkishTitle": "İsmin Hâlleri",
+      "level": "temel1",
+      "summary": "목적격, 방향격, 출발격을 중심으로 명사에 접미사를 붙여 문장 안에서의 역할을 표현하는 방법을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-basic-cases-formation",
+          "heading": "명사의 역할에 맞는 격 접미사 고르기",
+          "paragraphs": [
+            "명사에 격 접미사를 붙이면 동작의 대상인지, 가는 곳인지, 출발한 곳인지 알 수 있습니다. 필요한 격은 한국어 조사만 보고 정하기보다 터키어 동사의 쓰임과 함께 익혀야 합니다.",
+            "명사가 모음으로 끝나면 목적격과 방향격 앞에 연결 자음 y가 들어갑니다. 또 kitap처럼 일부 단어는 모음 접미사 앞에서 끝 자음이 바뀝니다."
+          ],
+          "rules": [
+            "목적격 -(y)I: 특정한 대상을 나타냅니다. kitap + ı → kitabı, araba + yı → arabayı.",
+            "방향격 -(y)A: ~로/에게. okul + a → okula, araba + ya → arabaya.",
+            "출발격 -DAn: ~에서/부터. ev + den → evden, park + tan → parktan.",
+            "목적격은 4분류, 방향격·출발격은 a/e 2분류 모음조화를 사용합니다. 출발격의 d/t도 끝 자음에 따라 바뀝니다.",
+            "Kitap okuyorum. = 책을 읽습니다. / Kitabı okuyorum. = 그 책을 읽습니다. 특정하지 않은 목적어는 기본형으로 동사 바로 앞에 놓일 수 있습니다."
+          ],
+          "examples": []
+        },
+        {
+          "id": "temel1-basic-cases-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Kitabı okuyorum.",
+              "korean": "그 책을 읽고 있습니다.",
+              "pronunciation": "키타브 오쿠요룸",
+              "id": "temel1-basic-cases-examples-example-1"
+            },
+            {
+              "turkish": "Okula gidiyorum.",
+              "korean": "학교에 가고 있습니다.",
+              "pronunciation": "오쿨라 기디요룸",
+              "id": "temel1-basic-cases-examples-example-2"
+            },
+            {
+              "turkish": "Evden geliyorum.",
+              "korean": "집에서 오고 있습니다.",
+              "pronunciation": "에브덴 겔리요룸",
+              "id": "temel1-basic-cases-examples-example-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "temel1-imperatives",
+      "order": 15,
+      "title": "기초 명령형",
+      "turkishTitle": "Emir Kipi",
+      "level": "temel1",
+      "summary": "상대방에게 간단한 행동을 요청하거나 지시할 때 사용하는 명령형을 배웁니다.",
+      "sections": [
+        {
+          "id": "temel1-imperatives-formation",
+          "heading": "-mak / -mek을 떼면 기본 명령형",
+          "paragraphs": [
+            "친한 상대 한 사람(sen)에게 ~해라고 말하는 가장 기본적인 명령형은 동사 어간 자체입니다. 사전형에서 -mak/-mek을 떼고 남은 부분을 그대로 말하면 됩니다. 현재진행형의 -yor나 인칭 접미사를 붙이지 않습니다.",
+            "이것은 2인칭 단수의 비격식 명령형 규칙입니다. 처음 만난 사람이나 여러 사람에게 공손하게 요청할 때는 아래의 공손한 형태를 사용하세요. 말투와 상황에 따라 짧은 명령이 강하게 들릴 수 있습니다."
+          ],
+          "rules": [
+            "gelmek − mek → gel → Gel! (와!)",
+            "oturmak − mak → otur → Otur! (앉아!)",
+            "okumak − mak → oku → Oku! (읽어!)",
+            "beklemek − mek → bekle → Bekle! (기다려!)",
+            "yemek → ye → Ye! (먹어!) / gitmek → git → Git! (가!)",
+            "기본 명령형에는 현재진행형처럼 a/e를 바꾸지 않습니다. Bekle!와 Bekliyor.를 구별해보세요."
+          ],
+          "examples": [
+            {
+              "id": "temel1-imperatives-formation-example-1",
+              "turkish": "Oku!",
+              "korean": "읽어!"
+            },
+            {
+              "id": "temel1-imperatives-formation-example-2",
+              "turkish": "Bekle!",
+              "korean": "기다려!"
+            },
+            {
+              "id": "temel1-imperatives-formation-example-3",
+              "turkish": "Suyu iç!",
+              "korean": "그 물을 마셔!"
+            }
+          ]
+        },
+        {
+          "id": "temel1-imperatives-polite-negative",
+          "heading": "공손하게 요청하고 “하지 마”라고 말하기",
+          "paragraphs": [
+            "여러 사람에게 말하거나 한 사람에게 공손하게 요청할 때는 어간 뒤에 -(y)In을 붙입니다. I는 ı/i/u/ü 중 하나이며, 어간이 모음으로 끝날 때 y가 들어갑니다. Lütfen을 함께 쓰면 부탁이라는 뜻을 더할 수 있습니다.",
+            "한 사람에게 하지 마라고 말할 때는 어간 뒤에 -ma/-me를 붙입니다. 명령형의 부정에서는 이 접미사를 그대로 말하고 -yor를 붙이지 않습니다."
+          ],
+          "rules": [
+            "공손한 요청: gel + in → Gelin. (오세요.) / otur + un → Oturun. (앉으세요.)",
+            "모음 끝 어간: oku + yun → Okuyun. (읽으세요.) / bekle + yin → Bekleyin. (기다리세요.)",
+            "더 격식 있는 형태는 -(y)InIz입니다. 예: Geliniz. / Bekleyiniz.",
+            "부정 명령: gel + me → Gelme! (오지 마!) / yap + ma → Yapma! (하지 마!)",
+            "공손한 부정 요청: gelme + yin → Gelmeyin. (오지 마세요.) / yapma + yın → Yapmayın. (하지 마세요.)"
+          ],
+          "examples": [
+            {
+              "id": "temel1-imperatives-polite-negative-example-1",
+              "turkish": "Lütfen oturun.",
+              "korean": "앉아 주세요."
+            },
+            {
+              "id": "temel1-imperatives-polite-negative-example-2",
+              "turkish": "Lütfen bekleyin.",
+              "korean": "기다려 주세요."
+            },
+            {
+              "id": "temel1-imperatives-polite-negative-example-3",
+              "turkish": "Gitme!",
+              "korean": "가지 마!"
+            }
+          ]
+        },
+        {
+          "id": "temel1-imperatives-examples",
+          "heading": "예문으로 익히기",
+          "paragraphs": [],
+          "rules": [],
+          "examples": [
+            {
+              "turkish": "Gel!",
+              "korean": "와!",
+              "pronunciation": "겔",
+              "id": "temel1-imperatives-examples-example-1"
+            },
+            {
+              "turkish": "Otur!",
+              "korean": "앉아!",
+              "pronunciation": "오투르",
+              "id": "temel1-imperatives-examples-example-2"
+            },
+            {
+              "turkish": "Lütfen bekleyin.",
+              "korean": "기다려 주세요.",
+              "pronunciation": "뤼트펜 베클레인",
+              "id": "temel1-imperatives-examples-example-3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

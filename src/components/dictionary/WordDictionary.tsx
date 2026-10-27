@@ -1,7 +1,7 @@
 ﻿import { useEffect, useState } from 'react'
-import { parseDictionary, wordNotes, type WordDetails } from './dictionary'
-import TranslationSpeech from './TranslationSpeech'
-import { turkishToHangul } from './utils/turkishPronunciation'
+import { parseDictionary, wordNotes, type WordDetails } from '../../utils/dictionary'
+import TranslationSpeech from '../audio/TranslationSpeech'
+import { turkishToHangul } from '../../utils/turkishPronunciation'
 const cache=new Map<string,WordDetails|null>()
 export default function WordDictionary({word,meaning}: {word:string;meaning:string}) {
  const [entry,setEntry]=useState<WordDetails|null>(cache.get(word)||null)
